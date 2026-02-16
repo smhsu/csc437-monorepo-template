@@ -1,10 +1,10 @@
 {
   "name": "csc437-monorepo-backend",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "src/main.js",
   "scripts": {
     "dev": "nodemon",
-    "start": "node src/index.js"
+    "start": "node src/main.js"
   },
   "author": "",
   "license": "ISC",

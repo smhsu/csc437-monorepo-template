@@ -2,7 +2,7 @@
 You may use this template for both your labs and your project in CSC 437.  Let's take a tour so you can more easily customize the server to your needs.
 
 ## src/
-All source code should be placed in this folder.  Currently it just has index.js, the most basic Express.js server there is.
+All source code should be placed in this folder.  Currently it just has main.js, the most basic Express.js server there is.
 
 ## package.json
 package.json also allows you to run the following scripts:
