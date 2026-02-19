@@ -2,5 +2,5 @@
   "watch": ["src"],
   "ignore": ["src/**/*.test.js", "node_modules"],
   "ext": "ts,mjs,js,json,graphql",
-  "exec": "node ./src/index.js"
+  "exec": "node ./src/main.js"
 }
